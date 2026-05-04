@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiokafka
+kafka-python
+psycopg2-binary
+redis

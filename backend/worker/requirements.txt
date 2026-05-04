@@ -1,0 +1,6 @@
+kafka-python
+aiokafka
+redis
+motor
+sqlalchemy
+psycopg2-binary

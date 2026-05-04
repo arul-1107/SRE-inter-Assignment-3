@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiokafka
+redis
+httpx
+psycopg2-binary
+flask-cors
+pydantic
+asyncpg
